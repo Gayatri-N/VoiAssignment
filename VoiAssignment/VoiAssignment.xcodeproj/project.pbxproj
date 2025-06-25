@@ -300,6 +300,7 @@
 				DEVELOPMENT_TEAM = DZ9T3X2856;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = VoiAssignment/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "This app uses camera for QR Code Scan";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -333,6 +334,7 @@
 				DEVELOPMENT_TEAM = DZ9T3X2856;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = VoiAssignment/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "This app uses camera for QR Code Scan";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
